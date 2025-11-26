@@ -1,5 +1,7 @@
 # Multitask Learning for Geometric Shape Classification and Counting
 
+Link to colab: https://colab.research.google.com/github/phalat24/GSN_homework_1/blob/main/solution/solution.ipynb
+
 This project trains a shared CNN backbone with two heads:
 - **135-way classification** of shape configurations (pair of shapes + count split),
 - **6D regression** of per-shape counts.
